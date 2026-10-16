@@ -1,0 +1,3 @@
+# Store and check out every file byte for byte (no line-ending conversion),
+# so the fingerprints in README.md hold on every machine.
+* -text
